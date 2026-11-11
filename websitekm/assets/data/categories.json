@@ -1,0 +1,43 @@
+[
+  {
+    "id": "CAT001",
+    "name": "Scholarship Information",
+    "slug": "scholarship-information",
+    "description": "Informasi tentang program beasiswa, cakupan pendanaan, penyedia beasiswa, dan peluang yang tersedia.",
+    "icon": "graduation-cap",
+    "color": "#17365D"
+  },
+  {
+    "id": "CAT002",
+    "name": "Application Guide",
+    "slug": "application-guide",
+    "description": "Panduan praktis untuk mempersiapkan dan mengajukan lamaran beasiswa.",
+    "icon": "file-text",
+    "color": "#315B88"
+  },
+  {
+    "id": "CAT003",
+    "name": "Eligibility & Requirements",
+    "slug": "eligibility-requirements",
+    "description": "Informasi tentang kelayakan beasiswa, kualifikasi, dan dokumen yang diperlukan.",
+    "icon": "clipboard-check",
+    "color": "#1B6B3A"
+  },
+  {
+    "id": "CAT004",
+    "name": "Selection Preparation",
+    "slug": "selection-preparation",
+    "description": "Pengetahuan dan panduan untuk mempersiapkan tahap seleksi beasiswa.",
+    "icon": "target",
+    "color": "#7C3D12"
+  },
+  {
+    "id": "CAT005",
+    "name": "Scholarship Experience",
+    "slug": "scholarship-experience",
+    "description": "Pengalaman, pelajaran, dan rekomendasi dari penerima beasiswa.",
+    "icon": "users",
+    "color": "#5B21B6"
+  }
+]
+

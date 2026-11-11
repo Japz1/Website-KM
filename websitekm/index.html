@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Scholarship Knowledge Base — Platform pengetahuan terpusat tentang beasiswa untuk mahasiswa Indonesia." />
+  <title>Beasiswa Knowledge Base — Home</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+<!-- NAVBAR -->
+<header id="navbar"></header>
+
+<!-- HERO -->
+<section class="hero" aria-label="Hero section">
+  <div class="container hero-inner">
+    <span class="hero-eyebrow">
+      <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="5"/></svg>
+      Scholarship Knowledge Base
+    </span>
+
+    <h1>Your Guide to Finding and <span>Securing Scholarships</span></h1>
+
+    <p class="hero-desc">
+      Eksplorasi peluang beasiswa, pahami persyaratan lamaran, dan persiapkan diri untuk proses seleksi melalui sumber pengetahuan terpusat dalam bahasa Indonesia.
+    </p>
+
+    <!-- Search -->
+    <div class="hero-search search-wrap" style="margin-top:.5rem">
+      <form id="heroSearchForm" role="search" aria-label="Cari artikel beasiswa">
+        <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input
+          id="heroSearch"
+          class="search-input"
+          type="search"
+          placeholder="Cari artikel beasiswa, tips, panduan..."
+          autocomplete="off"
+          aria-label="Cari artikel"
+        />
+        <button type="button" class="search-clear" id="heroSearchClear" aria-label="Hapus pencarian">&times;</button>
+      </form>
+    </div>
+
+    <div class="hero-actions">
+      <a href="library.html" class="btn-hero-primary">Jelajahi Knowledge Library</a>
+      <a href="categories.html" class="btn-hero-outline">Lihat Semua Kategori</a>
+    </div>
+  </div>
+</section>
+
+<!-- STATS -->
+<div class="container">
+  <div class="stats-strip" id="statsStrip">
+    <!-- injected by home.js -->
+  </div>
+</div>
+
+<!-- FEATURED CATEGORIES -->
+<section>
+  <div class="container">
+    <div class="section-header">
+      <div>
+        <div class="section-label">Browse by Topic</div>
+        <h2 class="section-title">Kategori Pengetahuan</h2>
+        <p class="section-desc">Temukan informasi berdasarkan topik yang paling relevan dengan kebutuhan Anda.</p>
+      </div>
+      <a href="categories.html" class="btn btn-ghost" style="white-space:nowrap">
+        Semua Kategori
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+    </div>
+    <div class="categories-grid" id="featuredCategories">
+      <!-- injected by home.js -->
+    </div>
+  </div>
+</section>
+
+<!-- FEATURED KNOWLEDGE -->
+<section style="background:var(--color-surface); border-top:1px solid var(--color-border); border-bottom:1px solid var(--color-border);">
+  <div class="container">
+    <div class="section-header">
+      <div>
+        <div class="section-label">Editor's Pick</div>
+        <h2 class="section-title">Artikel Unggulan</h2>
+        <p class="section-desc">Artikel-artikel pilihan yang paling relevan untuk memulai perjalanan beasiswa Anda.</p>
+      </div>
+      <a href="library.html" class="btn btn-ghost" style="white-space:nowrap">
+        Lihat Semua
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+    </div>
+    <div class="knowledge-grid" id="featuredKnowledge">
+      <!-- injected by home.js -->
+    </div>
+  </div>
+</section>
+
+<!-- LATEST KNOWLEDGE -->
+<section>
+  <div class="container">
+    <div class="section-header">
+      <div>
+        <div class="section-label">Terbaru</div>
+        <h2 class="section-title">Artikel Terkini</h2>
+        <p class="section-desc">Artikel yang baru ditambahkan ke dalam Knowledge Base.</p>
+      </div>
+      <a href="library.html" class="btn btn-ghost" style="white-space:nowrap">
+        Knowledge Library
+        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><line x1="5" y1="12" x2="19" y2="12"/><polyline points="12 5 19 12 12 19"/></svg>
+      </a>
+    </div>
+    <div class="knowledge-grid" id="latestKnowledge">
+      <!-- injected by home.js -->
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer id="footer"></footer>
+
+<script src="assets/js/app.js"></script>
+<script src="assets/js/home.js"></script>
+</body>
+</html>
+

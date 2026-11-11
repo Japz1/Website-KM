@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Tentang proyek Beasiswa Knowledge Base — tugas kelompok Knowledge Management." />
+  <title>Tentang — Beasiswa Knowledge Base</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+  <style>
+    .about-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1.5rem;
+    }
+    @media (max-width: 768px) { .about-grid { grid-template-columns: 1fr; } }
+
+    .about-card {
+      background: var(--color-surface);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-lg);
+      padding: 1.75rem;
+    }
+
+    .about-card h3 {
+      font-size: 1rem;
+      font-weight: 700;
+      color: var(--color-primary);
+      margin-bottom: 0.75rem;
+    }
+
+    .about-card p, .about-card li {
+      font-size: 0.9rem;
+      color: var(--color-text-secondary);
+      line-height: 1.65;
+    }
+
+    .about-card ul { list-style: disc; padding-left: 1.25rem; display: flex; flex-direction: column; gap: 0.3rem; }
+
+    .about-card-full {
+      grid-column: 1 / -1;
+    }
+
+    .tech-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 0.75rem;
+    }
+
+    .tech-tag {
+      display: inline-block;
+      padding: 0.3rem 0.8rem;
+      border-radius: 999px;
+      background: #EFF6FF;
+      color: var(--color-primary);
+      font-size: 0.8125rem;
+      font-weight: 600;
+      border: 1px solid #BFDBFE;
+    }
+
+    .disclaimer-box {
+      background: #FFFBEB;
+      border: 1px solid #FDE68A;
+      border-radius: var(--radius-md);
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .disclaimer-box p {
+      font-size: 0.875rem;
+      color: #78350F;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+<!-- NAVBAR -->
+<header id="navbar"></header>
+
+<!-- PAGE HEADER -->
+<div class="page-header">
+  <div class="container page-header-inner">
+    <div class="page-eyebrow">
+      <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="5"/></svg>
+      Tentang Proyek
+    </div>
+    <h1>Beasiswa Knowledge Base</h1>
+    <p>Platform pengetahuan terpusat tentang beasiswa — dikembangkan sebagai tugas kelompok mata kuliah Knowledge Management.</p>
+  </div>
+</div>
+
+<!-- ABOUT CONTENT -->
+<section>
+  <div class="container">
+
+    <!-- Disclaimer -->
+    <div class="disclaimer-box">
+      <strong style="font-size:.8125rem;text-transform:uppercase;letter-spacing:.05em;color:#92400E">Catatan Penting</strong>
+      <p style="margin-top:.4rem">Konten dalam aplikasi ini merupakan materi edukasi berbasis referensi umum dan sumber resmi yang tersedia secara publik. Artikel tidak merepresentasikan hasil wawancara individu tertentu. Selalu verifikasi persyaratan beasiswa terkini langsung melalui penyedia beasiswa resmi.</p>
+    </div>
+
+    <div class="about-grid">
+
+      <!-- Project Description -->
+      <div class="about-card about-card-full">
+        <h3>Deskripsi Proyek</h3>
+        <p>
+          Beasiswa Knowledge Base adalah aplikasi web statis yang dikembangkan sebagai implementasi sistem Knowledge Base dalam konteks akademik.
+          Aplikasi ini menyediakan informasi terstruktur tentang beasiswa, panduan aplikasi, persyaratan kelayakan, persiapan seleksi, dan pengalaman dari penerima beasiswa.
+        </p>
+        <p style="margin-top:.75rem">
+          Tujuan utama proyek ini adalah mendemonstrasikan bagaimana pengetahuan dapat dikumpulkan, distrukturkan, dikategorisasikan, dicari, dan disajikan kepada pengguna dalam format yang mudah diakses.
+        </p>
+      </div>
+
+      <!-- Objectives -->
+      <div class="about-card">
+        <h3>Tujuan Proyek</h3>
+        <ul>
+          <li>Menyediakan informasi beasiswa yang terpusat.</li>
+          <li>Mengorganisasikan pengetahuan ke dalam kategori terstruktur.</li>
+          <li>Membantu mahasiswa menemukan informasi melalui pencarian dan filter.</li>
+          <li>Menyajikan pengetahuan dalam format yang mudah dipahami.</li>
+          <li>Melestarikan informasi dari referensi yang dapat diverifikasi.</li>
+        </ul>
+      </div>
+
+      <!-- Technology -->
+      <div class="about-card">
+        <h3>Teknologi yang Digunakan</h3>
+        <p>Aplikasi dibangun menggunakan teknologi frontend statis:</p>
+        <div class="tech-tags">
+          <span class="tech-tag">HTML5</span>
+          <span class="tech-tag">CSS3</span>
+          <span class="tech-tag">Vanilla JavaScript</span>
+          <span class="tech-tag">JSON</span>
+          <span class="tech-tag">GitHub Pages</span>
+        </div>
+        <p style="margin-top:.75rem">Tidak menggunakan framework JavaScript, backend, atau database eksternal.</p>
+      </div>
+
+      <!-- Features -->
+      <div class="about-card">
+        <h3>Fitur Utama</h3>
+        <ul>
+          <li>Knowledge Library dengan 15+ artikel.</li>
+          <li>5 kategori pengetahuan terstruktur.</li>
+          <li>Pencarian real-time (judul, deskripsi, konten, kata kunci).</li>
+          <li>Filter berdasarkan kategori.</li>
+          <li>Halaman detail artikel yang lengkap.</li>
+          <li>Artikel terkait berdasarkan kategori.</li>
+          <li>Desain responsif (desktop, tablet, mobile).</li>
+          <li>Data dari JSON — mudah diperbarui.</li>
+        </ul>
+      </div>
+
+      <!-- Knowledge Categories -->
+      <div class="about-card about-card-full">
+        <h3>Kategori Pengetahuan</h3>
+        <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:1rem;margin-top:.75rem">
+          <div>
+            <div style="font-weight:700;color:var(--color-primary);font-size:.875rem;margin-bottom:.25rem">01. Scholarship Information</div>
+            <p>Informasi program beasiswa, cakupan pendanaan, dan peluang yang tersedia.</p>
+          </div>
+          <div>
+            <div style="font-weight:700;color:var(--color-primary);font-size:.875rem;margin-bottom:.25rem">02. Application Guide</div>
+            <p>Panduan praktis mempersiapkan dan mengajukan lamaran beasiswa.</p>
+          </div>
+          <div>
+            <div style="font-weight:700;color:var(--color-primary);font-size:.875rem;margin-bottom:.25rem">03. Eligibility &amp; Requirements</div>
+            <p>Kelayakan beasiswa, kualifikasi, dan dokumen yang diperlukan.</p>
+          </div>
+          <div>
+            <div style="font-weight:700;color:var(--color-primary);font-size:.875rem;margin-bottom:.25rem">04. Selection Preparation</div>
+            <p>Persiapan tahap seleksi dan wawancara beasiswa.</p>
+          </div>
+          <div>
+            <div style="font-weight:700;color:var(--color-primary);font-size:.875rem;margin-bottom:.25rem">05. Scholarship Experience</div>
+            <p>Pengalaman dan pelajaran dari para penerima beasiswa.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Source Note -->
+      <div class="about-card about-card-full">
+        <h3>Tentang Sumber Informasi</h3>
+        <p>
+          Artikel dalam Knowledge Base ini dikembangkan berdasarkan referensi umum yang tersedia secara publik, termasuk sumber-sumber resmi seperti:
+        </p>
+        <ul style="margin-top:.6rem">
+          <li>Website resmi LPDP (lpdp.kemenkeu.go.id)</li>
+          <li>Portal KIP Kuliah Kemdikbud (kip-kuliah.kemdikbud.go.id)</li>
+          <li>Direktorat Jenderal Pendidikan Tinggi, Kemdikbud (dikti.kemdikbud.go.id)</li>
+          <li>Panduan resmi program beasiswa yang tersedia secara publik</li>
+        </ul>
+        <p style="margin-top:.75rem">
+          Artikel tidak merepresentasikan hasil wawancara, pengalaman personal, atau pernyataan dari individu tertentu.
+          Konten yang bersumber dari pengalaman komunitas diberi label "Community Reference".
+        </p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer id="footer"></footer>
+
+<script src="assets/js/app.js"></script>
+</body>
+</html>
+

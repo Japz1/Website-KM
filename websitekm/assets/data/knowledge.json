@@ -1,0 +1,682 @@
+[
+  {
+    "id": "001",
+    "title": "Mengenal Peluang Beasiswa untuk Mahasiswa",
+    "slug": "mengenal-peluang-beasiswa",
+    "categoryId": "CAT001",
+    "description": "Pengenalan berbagai jenis program beasiswa dan peluang pendanaan yang tersedia bagi mahasiswa Indonesia.",
+    "keywords": ["beasiswa", "scholarship", "peluang", "funding", "pendanaan", "mahasiswa"],
+    "content": {
+      "overview": "Beasiswa adalah bentuk bantuan finansial yang diberikan kepada mahasiswa untuk mendukung pendidikan mereka. Memahami jenis-jenis beasiswa yang ada merupakan langkah pertama yang krusial dalam perjalanan mendapatkan beasiswa.",
+      "sections": [
+        {
+          "heading": "Apa Itu Beasiswa?",
+          "body": "Beasiswa adalah pemberian dana atau fasilitas pendidikan kepada individu berdasarkan kriteria tertentu, seperti prestasi akademik, kondisi ekonomi, atau bidang studi. Beasiswa dapat mencakup biaya kuliah, biaya hidup, biaya buku, hingga biaya penelitian. Berbeda dengan pinjaman, beasiswa tidak perlu dikembalikan selama penerima memenuhi syarat dan kewajiban yang ditetapkan."
+        },
+        {
+          "heading": "Jenis-Jenis Beasiswa",
+          "body": "Secara umum, beasiswa dapat dikategorikan berdasarkan sumber pendanaan: (1) Beasiswa Pemerintah — seperti KIP Kuliah, LPDP, Beasiswa Unggulan Kemendikbud; (2) Beasiswa Perguruan Tinggi — diberikan langsung oleh universitas kepada mahasiswanya; (3) Beasiswa Swasta/Perusahaan — dari organisasi nonprofit, yayasan, atau perusahaan; (4) Beasiswa Internasional — dari pemerintah negara lain atau lembaga internasional seperti Fulbright, Chevening, DAAD."
+        },
+        {
+          "heading": "Cakupan Beasiswa",
+          "body": "Beasiswa fully funded mencakup seluruh biaya pendidikan dan biaya hidup. Beasiswa partially funded hanya menanggung sebagian biaya, misalnya hanya biaya kuliah saja tanpa biaya hidup. Penting untuk membaca detail cakupan setiap beasiswa sebelum mendaftar agar tidak ada ekspektasi yang tidak sesuai."
+        },
+        {
+          "heading": "Strategi Menemukan Beasiswa yang Tepat",
+          "body": "Mulailah dengan mengidentifikasi kebutuhan finansial dan tujuan pendidikan Anda. Periksa website resmi Kemendikbud, Kemenag, dan universitas Anda secara berkala. Bergabunglah dengan komunitas atau forum beasiswa online. Manfaatkan bagian kemahasiswaan di kampus yang biasanya memiliki informasi beasiswa terkini."
+        }
+      ],
+      "tips": [
+        "Buat kalender beasiswa untuk melacak deadline pendaftaran setiap program.",
+        "Periksa persyaratan kelayakan sebelum menghabiskan waktu menyiapkan berkas.",
+        "Simpan dokumen-dokumen penting (transkrip, sertifikat) dalam format digital yang terorganisir.",
+        "Bergabung dengan komunitas penerima beasiswa untuk mendapatkan informasi terkini.",
+        "Jangan hanya mendaftar satu beasiswa — daftarkan diri ke beberapa program sekaligus."
+      ],
+      "notes": "Informasi beasiswa dapat berubah setiap tahun. Selalu verifikasi persyaratan terbaru melalui sumber resmi dari penyedia beasiswa."
+    },
+    "source": {
+      "name": "Direktorat Pembelajaran dan Kemahasiswaan, Kemdikbud",
+      "type": "Official Website",
+      "url": "https://dikti.kemdikbud.go.id/",
+      "dateVerified": "2026-11-01"
+    },
+    "featured": true,
+    "publishedAt": "2026-11-01"
+  },
+  {
+    "id": "002",
+    "title": "Jenis-Jenis Beasiswa untuk Mahasiswa Universitas",
+    "slug": "jenis-jenis-beasiswa",
+    "categoryId": "CAT001",
+    "description": "Penjelasan lengkap tentang berbagai jenis beasiswa yang tersedia, mulai dari beasiswa pemerintah hingga beasiswa internasional.",
+    "keywords": ["jenis beasiswa", "beasiswa pemerintah", "beasiswa swasta", "beasiswa internasional", "LPDP", "KIP Kuliah"],
+    "content": {
+      "overview": "Memahami ragam jenis beasiswa membantu mahasiswa menentukan program mana yang paling sesuai dengan profil, kebutuhan, dan tujuan akademik mereka.",
+      "sections": [
+        {
+          "heading": "KIP Kuliah",
+          "body": "KIP Kuliah (Kartu Indonesia Pintar Kuliah) adalah program beasiswa pemerintah Indonesia yang ditujukan bagi mahasiswa dari keluarga kurang mampu secara ekonomi. Program ini menanggung biaya pendidikan dan memberikan biaya hidup bulanan. Pendaftaran dilakukan melalui SNBP, SNBT, atau jalur mandiri perguruan tinggi."
+        },
+        {
+          "heading": "LPDP (Lembaga Pengelola Dana Pendidikan)",
+          "body": "LPDP adalah beasiswa fully funded dari pemerintah Indonesia untuk jenjang S2 dan S3, baik di dalam maupun luar negeri. LPDP mencakup biaya kuliah, biaya hidup, biaya penelitian, dan biaya perjalanan. Persyaratannya ketat: IPK minimal 3.0 untuk S1, kemampuan bahasa Inggris (TOEFL/IELTS), dan esai serta wawancara yang kompetitif."
+        },
+        {
+          "heading": "Beasiswa Unggulan Kemendikbud",
+          "body": "Program beasiswa dari Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi untuk mahasiswa berprestasi. Tersedia untuk jenjang S1, S2, dan S3. Menekankan prestasi akademik dan kontribusi pada pengembangan bangsa."
+        },
+        {
+          "heading": "Beasiswa Perguruan Tinggi",
+          "body": "Banyak universitas di Indonesia menawarkan beasiswa internal bagi mahasiswanya, seperti beasiswa prestasi akademik, beasiswa atlet, atau beasiswa bagi mahasiswa berprestasi dari daerah tertentu. Hubungi bagian kemahasiswaan kampus Anda untuk informasi lebih lanjut."
+        },
+        {
+          "heading": "Beasiswa Internasional Populer",
+          "body": "Beberapa beasiswa internasional yang populer di kalangan mahasiswa Indonesia antara lain: Fulbright (Amerika Serikat), Chevening (Inggris), DAAD (Jerman), AAS — Australian Awards Scholarship (Australia), dan Monbukagakusho/MEXT (Jepang). Setiap program memiliki persyaratan, deadline, dan cakupan yang berbeda."
+        }
+      ],
+      "tips": [
+        "Cocokkan jenis beasiswa dengan jenjang studi dan kebutuhan finansial Anda.",
+        "Perhatikan apakah beasiswa bersifat fully funded atau partially funded.",
+        "Untuk beasiswa internasional, persiapkan kemampuan bahasa Inggris jauh-jauh hari.",
+        "Baca syarat dan ketentuan beasiswa, termasuk kewajiban setelah lulus."
+      ],
+      "notes": "Persyaratan dan kuota beasiswa dapat berubah setiap tahun. Selalu cek website resmi masing-masing penyedia beasiswa."
+    },
+    "source": {
+      "name": "LPDP Kementerian Keuangan RI",
+      "type": "Official Website",
+      "url": "https://lpdp.kemenkeu.go.id/",
+      "dateVerified": "2026-11-01"
+    },
+    "featured": true,
+    "publishedAt": "2026-11-02"
+  },
+  {
+    "id": "003",
+    "title": "Memahami Beasiswa Fully Funded dan Partially Funded",
+    "slug": "fully-funded-vs-partially-funded",
+    "categoryId": "CAT001",
+    "description": "Perbedaan mendalam antara beasiswa fully funded dan partially funded serta strategi mengelola keduanya.",
+    "keywords": ["fully funded", "partially funded", "biaya kuliah", "biaya hidup", "cakupan beasiswa"],
+    "content": {
+      "overview": "Memahami perbedaan antara beasiswa fully funded dan partially funded sangat penting agar mahasiswa dapat merencanakan keuangan dengan realistis sebelum menerima tawaran beasiswa.",
+      "sections": [
+        {
+          "heading": "Beasiswa Fully Funded",
+          "body": "Beasiswa fully funded menanggung seluruh biaya yang dibutuhkan selama studi. Komponen yang biasanya dicakup meliputi: biaya kuliah (tuition fee), biaya hidup bulanan (living allowance), biaya akomodasi, biaya buku dan peralatan, biaya perjalanan (tiket pesawat PP), asuransi kesehatan, dan biaya penelitian atau tesis. Contoh: LPDP, Chevening, Fulbright, DAAD."
+        },
+        {
+          "heading": "Beasiswa Partially Funded",
+          "body": "Beasiswa partially funded hanya menanggung sebagian dari total biaya studi. Misalnya, ada beasiswa yang hanya menanggung biaya kuliah (tuition waiver) tanpa biaya hidup, atau sebaliknya, hanya memberikan tunjangan hidup tanpa biaya kuliah. Penerima beasiswa partially funded perlu menyiapkan sumber dana tambahan dari tabungan pribadi, keluarga, atau beasiswa lain yang dikombinasikan."
+        },
+        {
+          "heading": "Strategi Mengelola Beasiswa Partially Funded",
+          "body": "Jika Anda menerima beasiswa partially funded, beberapa strategi yang dapat diterapkan: (1) Kombinasikan dengan beasiswa lain yang kompatibel; (2) Cari part-time job atau assistantship di kampus; (3) Manfaatkan fasilitas kampus seperti perpustakaan digital untuk mengurangi biaya buku; (4) Buat anggaran bulanan yang ketat dan realistis."
+        }
+      ],
+      "tips": [
+        "Hitung total biaya studi Anda sebelum menerima beasiswa partially funded.",
+        "Tanyakan kepada penyedia beasiswa apakah diperbolehkan mencari pendanaan tambahan.",
+        "Pertimbangkan biaya hidup di kota/negara tujuan, bukan hanya biaya kuliah.",
+        "Baca kontrak beasiswa dengan teliti sebelum menandatangani."
+      ],
+      "notes": "Komponen cakupan beasiswa dapat berbeda-beda antar program. Selalu konfirmasi langsung dengan penyedia beasiswa."
+    },
+    "source": {
+      "name": "Panduan Resmi LPDP 2024",
+      "type": "Official Document",
+      "url": "https://lpdp.kemenkeu.go.id/",
+      "dateVerified": "2026-10-15"
+    },
+    "featured": false,
+    "publishedAt": "2026-11-03"
+  },
+  {
+    "id": "004",
+    "title": "Cara Menemukan Beasiswa yang Tepat untuk Anda",
+    "slug": "cara-menemukan-beasiswa-yang-tepat",
+    "categoryId": "CAT002",
+    "description": "Panduan langkah demi langkah untuk mencari dan mengidentifikasi beasiswa yang sesuai dengan profil dan tujuan akademik Anda.",
+    "keywords": ["cari beasiswa", "tips mencari beasiswa", "platform beasiswa", "strategi beasiswa"],
+    "content": {
+      "overview": "Menemukan beasiswa yang tepat memerlukan riset yang sistematis. Banyak mahasiswa kehilangan peluang karena tidak tahu di mana mencarinya atau terlambat mengetahui deadline.",
+      "sections": [
+        {
+          "heading": "Langkah 1: Kenali Profil Diri Sendiri",
+          "body": "Sebelum mencari beasiswa, identifikasi dulu: (1) Jenjang studi Anda (S1, S2, S3); (2) Bidang studi atau jurusan; (3) Kondisi finansial keluarga; (4) Prestasi akademik dan non-akademik; (5) Tujuan karier jangka panjang. Profil ini akan membantu menyaring jenis beasiswa yang paling relevan."
+        },
+        {
+          "heading": "Langkah 2: Manfaatkan Sumber Informasi Resmi",
+          "body": "Sumber informasi beasiswa yang terpercaya meliputi: website resmi Kemdikbud (dikti.kemdikbud.go.id), website LPDP (lpdp.kemenkeu.go.id), website KIP Kuliah (kip-kuliah.kemdikbud.go.id), bagian kemahasiswaan universitas Anda, dan website resmi kedutaan besar negara tujuan untuk beasiswa internasional."
+        },
+        {
+          "heading": "Langkah 3: Gunakan Platform Aggregator Beasiswa",
+          "body": "Beberapa platform online mengumpulkan informasi beasiswa dari berbagai sumber: Beasiswapedia, Schoters, dan berbagai grup Facebook atau Telegram komunitas beasiswa Indonesia. Namun, selalu verifikasi informasi dari platform ini ke sumber resmi."
+        },
+        {
+          "heading": "Langkah 4: Buat Sistem Pelacakan",
+          "body": "Buat spreadsheet atau catatan untuk melacak: nama beasiswa, penyedia, deadline, persyaratan utama, dokumen yang diperlukan, dan status pendaftaran Anda. Ini membantu Anda mengelola beberapa pendaftaran sekaligus tanpa terlewat deadline."
+        },
+        {
+          "heading": "Langkah 5: Bangun Jaringan",
+          "body": "Bergabung dengan komunitas beasiswa, hubungi alumni penerima beasiswa yang Anda incar, dan ikuti seminar atau webinar tentang beasiswa. Informasi dari orang yang sudah berpengalaman sangat berharga."
+        }
+      ],
+      "tips": [
+        "Mulai mencari beasiswa dari semester awal, bukan menjelang kelulusan.",
+        "Set reminder untuk setiap deadline beasiswa yang Anda incar.",
+        "Jangan ragu menghubungi tim beasiswa untuk bertanya jika ada yang tidak jelas.",
+        "Ikuti akun media sosial resmi penyedia beasiswa untuk update terkini.",
+        "Manfaatkan kantor urusan internasional di kampus untuk informasi beasiswa luar negeri."
+      ],
+      "notes": "Hati-hati dengan penipuan beasiswa. Beasiswa resmi tidak pernah meminta biaya pendaftaran atau transfer dana."
+    },
+    "source": {
+      "name": "Portal Beasiswa Kemdikbud",
+      "type": "Official Website",
+      "url": "https://dikti.kemdikbud.go.id/",
+      "dateVerified": "2026-11-01"
+    },
+    "featured": true,
+    "publishedAt": "2026-11-04"
+  },
+  {
+    "id": "005",
+    "title": "Mempersiapkan Berkas Lamaran Beasiswa",
+    "slug": "mempersiapkan-berkas-lamaran-beasiswa",
+    "categoryId": "CAT002",
+    "description": "Panduan komprehensif untuk menyiapkan semua dokumen dan berkas yang diperlukan dalam proses pendaftaran beasiswa.",
+    "keywords": ["berkas beasiswa", "dokumen lamaran", "persiapan beasiswa", "administrasi beasiswa"],
+    "content": {
+      "overview": "Kelengkapan dan kualitas berkas lamaran menentukan apakah Anda lolos ke tahap selanjutnya. Persiapan yang baik dimulai jauh sebelum deadline.",
+      "sections": [
+        {
+          "heading": "Dokumen Administratif Umum",
+          "body": "Dokumen yang hampir selalu diminta dalam pendaftaran beasiswa: KTP/KK, akta kelahiran, transkrip nilai (legalisir), ijazah (legalisir), foto formal terbaru, sertifikat prestasi akademik dan non-akademik, sertifikat kemampuan bahasa (TOEFL/IELTS/TOEIC untuk beasiswa internasional), dan kartu mahasiswa aktif."
+        },
+        {
+          "heading": "Dokumen Penunjang Khusus",
+          "body": "Selain dokumen administratif, beasiswatertentu memerlukan: surat keterangan tidak mampu (dari kelurahan/RT) untuk beasiswa berbasis ekonomi, surat rekomendasi dari dosen atau atasan, proposal rencana studi, esai atau motivation letter, portofolio karya (untuk bidang seni/desain), dan surat keterangan aktif organisasi."
+        },
+        {
+          "heading": "Tips Manajemen Dokumen",
+          "body": "Buat folder digital untuk setiap beasiswa yang Anda daftar. Simpan versi scan beresolusi tinggi dari semua dokumen. Pastikan legalisir dokumen masih berlaku (biasanya 6 bulan). Simpan salinan fisik di tempat yang aman. Buat checklist dokumen untuk setiap beasiswa agar tidak ada yang terlewat."
+        },
+        {
+          "heading": "Timeline Persiapan Berkas",
+          "body": "Idealnya, mulai persiapan berkas 3-6 bulan sebelum deadline: Bulan ke-1 sampai 2: identifikasi dokumen yang diperlukan dan mulai mengumpulkan. Bulan ke-3: legalisir dokumen dan ambil sertifikat yang diperlukan. Bulan ke-4 sampai 5: tulis esai dan motivation letter. Bulan ke-6: review final dan submit sebelum deadline."
+        }
+      ],
+      "tips": [
+        "Scan semua dokumen penting segera dan simpan di cloud storage.",
+        "Legalisir dokumen lebih dari yang diperlukan — lebih baik kelebihan dari kekurangan.",
+        "Minta surat rekomendasi jauh-jauh hari karena dosen/atasan butuh waktu menulisnya.",
+        "Periksa ulang semua dokumen sebelum submit untuk memastikan tidak ada yang salah atau kurang.",
+        "Simpan bukti submit (screenshot atau email konfirmasi) sebagai arsip."
+      ],
+      "notes": "Persyaratan dokumen berbeda-beda untuk setiap beasiswa. Selalu cek persyaratan spesifik dari masing-masing program."
+    },
+    "source": {
+      "name": "Panduan Pendaftaran KIP Kuliah 2024",
+      "type": "Official Document",
+      "url": "https://kip-kuliah.kemdikbud.go.id/",
+      "dateVerified": "2026-10-20"
+    },
+    "featured": false,
+    "publishedAt": "2026-11-05"
+  },
+  {
+    "id": "006",
+    "title": "Cara Menulis Motivation Letter yang Kuat",
+    "slug": "cara-menulis-motivation-letter",
+    "categoryId": "CAT002",
+    "description": "Panduan praktis untuk menulis motivation letter atau esai beasiswa yang meyakinkan dan menonjol di antara ribuan pelamar.",
+    "keywords": ["motivation letter", "esai beasiswa", "surat motivasi", "personal statement", "menulis beasiswa"],
+    "content": {
+      "overview": "Motivation letter adalah kesempatan Anda untuk berbicara langsung kepada komite seleksi dan meyakinkan mereka bahwa Anda adalah kandidat yang layak. Surat yang kuat membedakan Anda dari ribuan pelamar lainnya.",
+      "sections": [
+        {
+          "heading": "Struktur Motivation Letter yang Efektif",
+          "body": "Motivation letter yang baik memiliki struktur: (1) Pembuka yang menarik — ceritakan momen atau pengalaman yang mendorong Anda mendaftar beasiswa ini; (2) Latar belakang akademik dan prestasi relevan; (3) Tujuan studi yang spesifik dan terukur; (4) Relevansi beasiswa dengan tujuan karier dan kontribusi Anda; (5) Penutup yang berkesan dan menunjukkan komitmen."
+        },
+        {
+          "heading": "Prinsip Penulisan yang Efektif",
+          "body": "Gunakan bahasa yang spesifik, bukan generik. Hindari kalimat klise seperti 'Saya adalah orang yang pekerja keras dan bertanggung jawab'. Sebagai gantinya, tunjukkan dengan contoh konkret. Gunakan angka dan fakta jika memungkinkan: 'IPK 3.85', 'juara 1 olimpiade nasional', 'memimpin tim 20 orang'. Setiap klaim harus didukung bukti atau cerita."
+        },
+        {
+          "heading": "Hal yang Harus Dihindari",
+          "body": "Jangan: menggunakan template generik tanpa personalisasi, berbohong atau melebih-lebihkan prestasi, mengulang isi CV secara verbatim, menulis terlalu panjang tanpa substansi, menggunakan bahasa yang terlalu formal dan kaku, serta lupa menyesuaikan isi dengan visi-misi penyedia beasiswa."
+        },
+        {
+          "heading": "Proses Revisi",
+          "body": "Setelah menulis draft pertama: diamkan selama 1-2 hari, lalu baca ulang dengan sudut pandang baru. Minta teman, kakak tingkat, atau dosen untuk memberikan feedback. Revisi minimal 3-4 kali sebelum mengirim. Periksa grammar, ejaan, dan konsistensi narasi."
+        }
+      ],
+      "tips": [
+        "Riset mendalam tentang beasiswa yang Anda tuju sebelum mulai menulis.",
+        "Sesuaikan isi motivation letter dengan nilai dan tujuan penyedia beasiswa.",
+        "Mulailah dengan kalimat pembuka yang kuat dan tidak klise.",
+        "Tunjukkan rencana konkret yang akan Anda lakukan dengan beasiswa tersebut.",
+        "Minta native speaker atau proofreader untuk memeriksa jika menulis dalam bahasa Inggris."
+      ],
+      "notes": "Motivation letter yang baik membutuhkan waktu dan beberapa kali revisi. Jangan menunda penulisan hingga mendekati deadline."
+    },
+    "source": {
+      "name": "Panduan Penulisan LPDP Essay",
+      "type": "Reference Guide",
+      "url": "https://lpdp.kemenkeu.go.id/",
+      "dateVerified": "2026-10-25"
+    },
+    "featured": true,
+    "publishedAt": "2026-11-06"
+  },
+  {
+    "id": "007",
+    "title": "Memahami Kelayakan dan Persyaratan Beasiswa",
+    "slug": "kelayakan-dan-persyaratan-beasiswa",
+    "categoryId": "CAT003",
+    "description": "Penjelasan tentang berbagai kriteria kelayakan beasiswa yang umum digunakan dan cara memverifikasi apakah Anda memenuhi syarat.",
+    "keywords": ["kelayakan beasiswa", "syarat beasiswa", "eligibility", "persyaratan", "kualifikasi"],
+    "content": {
+      "overview": "Setiap beasiswa memiliki kriteria kelayakan yang berbeda. Memahami kriteria ini sebelum mendaftar menghemat waktu dan meningkatkan peluang keberhasilan.",
+      "sections": [
+        {
+          "heading": "Kriteria Akademik",
+          "body": "Kriteria akademik yang paling umum meliputi: IPK minimum (biasanya 3.0 untuk beasiswa kompetitif), status sebagai mahasiswa aktif di perguruan tinggi terakreditasi, jurusan atau bidang studi tertentu (beberapa beasiswa hanya untuk STEM atau ilmu sosial), dan jenjang studi (S1, S2, atau S3). Pastikan Anda memenuhi semua kriteria akademik sebelum mendaftar."
+        },
+        {
+          "heading": "Kriteria Ekonomi",
+          "body": "Beasiswa berbasis kebutuhan finansial (need-based) seperti KIP Kuliah memerlukan pembuktian kondisi ekonomi keluarga. Dokumen yang umumnya diperlukan: Surat Keterangan Tidak Mampu (SKTM), slip gaji orang tua, bukti kepemilikan KKS/PKH/BPNT, atau rekening koran. Ambang batas penghasilan keluarga ditetapkan oleh masing-masing penyedia beasiswa."
+        },
+        {
+          "heading": "Kriteria Non-Akademik",
+          "body": "Selain akademik, banyak beasiswa juga menilai: kepemimpinan dan keterlibatan organisasi, prestasi non-akademik (olahraga, seni, olimpiade), pengalaman volunteering atau kegiatan sosial, dan kemampuan bahasa asing. Beasiswa LPDP misalnya sangat mempertimbangkan kepemimpinan dan rencana kontribusi kepada Indonesia."
+        },
+        {
+          "heading": "Batasan Usia dan Domisili",
+          "body": "Beberapa beasiswa memiliki batasan usia, misalnya LPDP mensyaratkan usia maksimal 35 tahun untuk S2 reguler. Ada pula beasiswa yang membatasi berdasarkan domisili atau asal daerah tertentu. Periksa apakah ada batasan yang berlaku untuk program yang Anda minati."
+        }
+      ],
+      "tips": [
+        "Buat daftar periksa persyaratan untuk setiap beasiswa yang Anda incar.",
+        "Jika IPK belum memenuhi syarat, fokus dulu meningkatkan IPK sebelum mendaftar.",
+        "Jangan berasumsi — baca persyaratan secara lengkap dari sumber resmi.",
+        "Jika ragu, hubungi langsung penyedia beasiswa untuk klarifikasi."
+      ],
+      "notes": "Persyaratan beasiswa dapat berubah setiap tahun. Verifikasi selalu dari sumber resmi terkini."
+    },
+    "source": {
+      "name": "Direktorat Jenderal Pendidikan Tinggi, Kemdikbud",
+      "type": "Official Website",
+      "url": "https://dikti.kemdikbud.go.id/",
+      "dateVerified": "2026-11-01"
+    },
+    "featured": false,
+    "publishedAt": "2026-11-07"
+  },
+  {
+    "id": "008",
+    "title": "Persyaratan Akademik Umum dalam Seleksi Beasiswa",
+    "slug": "persyaratan-akademik-beasiswa",
+    "categoryId": "CAT003",
+    "description": "Panduan tentang standar akademik yang umumnya diterapkan dalam seleksi berbagai program beasiswa di Indonesia.",
+    "keywords": ["IPK", "GPA", "akademik", "transkrip", "persyaratan akademik", "prestasi"],
+    "content": {
+      "overview": "Prestasi akademik menjadi salah satu tolok ukur utama dalam seleksi beasiswa. Memahami standar yang ditetapkan membantu mahasiswa mempersiapkan diri lebih awal.",
+      "sections": [
+        {
+          "heading": "Standar IPK (Indeks Prestasi Kumulatif)",
+          "body": "Standar IPK berbeda-beda tergantung jenis beasiswa: Beasiswa umum/pemerintah biasanya mensyaratkan IPK minimum 3.00 dari skala 4.00. Beasiswa kompetitif (LPDP, Chevening) mensyaratkan IPK 3.00–3.25 sebagai syarat minimum. Beasiswa prestasi universitas biasanya mensyaratkan IPK 3.50 ke atas. Penting: IPK hanya salah satu faktor, bukan satu-satunya penentu."
+        },
+        {
+          "heading": "Transkrip Akademik",
+          "body": "Transkrip nilai adalah rekam jejak akademik Anda. Transkrip yang diminta biasanya harus: dikeluarkan dan dilegalisir oleh institusi resmi, menunjukkan semua mata kuliah yang telah ditempuh beserta nilainya, dalam bahasa Indonesia dan/atau bahasa Inggris (tergantung beasiswa), dan mencantumkan IPK kumulatif. Beberapa beasiswa meminta transkrip dari seluruh jenjang studi sebelumnya."
+        },
+        {
+          "heading": "Kemampuan Bahasa Asing",
+          "body": "Untuk beasiswa internasional, kemampuan bahasa Inggris dibuktikan melalui sertifikat resmi: TOEFL ITP (minimum 500-550), TOEFL iBT (minimum 70-80), IELTS (minimum 6.0-6.5), atau TOEIC (minimum 700). Persiapkan sertifikat ini jauh-jauh hari karena proses tesnya membutuhkan waktu dan biaya."
+        },
+        {
+          "heading": "Konsistensi Nilai Akademik",
+          "body": "Beberapa komite seleksi tidak hanya melihat IPK akhir, tetapi juga tren perkembangan nilai. IPK yang konsisten meningkat dari semester ke semester menunjukkan ketekunan dan kemampuan adaptasi. Hindari ada semester dengan nilai yang sangat buruk (DO atau nilai D/E yang banyak)."
+        }
+      ],
+      "tips": [
+        "Mulai menjaga IPK dari semester pertama, bukan menjelang pendaftaran beasiswa.",
+        "Ambil tes TOEFL/IELTS setidaknya 6 bulan sebelum deadline beasiswa.",
+        "Jika IPK kurang dari syarat, pertimbangkan beasiswa dengan persyaratan lebih fleksibel.",
+        "Aktif di kegiatan akademik seperti penelitian atau asisten dosen dapat menguatkan aplikasi."
+      ],
+      "notes": "Meskipun IPK penting, beasiswa kompetitif menilai kandidat secara holistik termasuk kepemimpinan, motivasi, dan rencana kontribusi."
+    },
+    "source": {
+      "name": "Panduan Seleksi LPDP 2024-2025",
+      "type": "Official Document",
+      "url": "https://lpdp.kemenkeu.go.id/beasiswa/dalam-negeri/",
+      "dateVerified": "2026-10-30"
+    },
+    "featured": false,
+    "publishedAt": "2026-11-08"
+  },
+  {
+    "id": "009",
+    "title": "Dokumen yang Diperlukan untuk Pendaftaran Beasiswa",
+    "slug": "dokumen-pendaftaran-beasiswa",
+    "categoryId": "CAT003",
+    "description": "Daftar lengkap dokumen yang umumnya diperlukan dalam pendaftaran beasiswa beserta tips pengelolaannya.",
+    "keywords": ["dokumen beasiswa", "berkas pendaftaran", "surat rekomendasi", "transkrip", "legalisir"],
+    "content": {
+      "overview": "Kelengkapan dokumen adalah syarat minimum untuk lanjut ke tahap berikutnya. Ketidaklengkapan dokumen akan langsung mendiskualifikasi aplikasi Anda, sekuat apapun profil Anda.",
+      "sections": [
+        {
+          "heading": "Dokumen Identitas",
+          "body": "Dokumen identitas yang umumnya diperlukan: Kartu Tanda Penduduk (KTP) yang masih berlaku, Kartu Keluarga (KK), Akta Kelahiran (terutama untuk beasiswa yang memerlukan verifikasi usia), Paspor (untuk beasiswa internasional, pastikan masih berlaku minimal 1 tahun dari waktu pendaftaran)."
+        },
+        {
+          "heading": "Dokumen Akademik",
+          "body": "Dokumen akademik meliputi: Transkrip nilai resmi (legalisir dari institusi), Ijazah (legalisir dari institusi), Kartu Mahasiswa (untuk mahasiswa aktif), Sertifikat TOEFL/IELTS/TOEIC (untuk beasiswa internasional), Sertifikat prestasi akademik (olimpiade, penghargaan), dan Surat Keterangan Mahasiswa Aktif."
+        },
+        {
+          "heading": "Dokumen Penunjang",
+          "body": "Surat Rekomendasi: biasanya 2-3 surat dari dosen atau profesor yang mengenal Anda secara akademik. Surat Izin Studi dari instansi/perusahaan (untuk pekerja yang melanjutkan studi). Proposal Rencana Studi (untuk beasiswa S2/S3). Motivation Letter atau Essay. Curriculum Vitae (CV) akademik."
+        },
+        {
+          "heading": "Dokumen Ekonomi",
+          "body": "Untuk beasiswa berbasis kebutuhan finansial: Surat Keterangan Tidak Mampu (SKTM) dari Kelurahan/Desa, Slip gaji atau Surat Keterangan Penghasilan Orang Tua, Bukti kepemilikan program sosial (KKS, PKH, BPNT, PIP), Rekening koran 3 bulan terakhir, dan Surat keterangan dari RT/RW."
+        }
+      ],
+      "tips": [
+        "Scan semua dokumen dengan resolusi tinggi (minimal 300 dpi) segera setelah mendapatkannya.",
+        "Simpan salinan digital di Google Drive atau cloud storage dengan nama file yang terorganisir.",
+        "Legalisir dokumen lebih awal karena antrean di institusi bisa panjang.",
+        "Minta surat rekomendasi minimal 1 bulan sebelum deadline.",
+        "Periksa format file yang diterima sistem (PDF, JPG, dll.) sebelum submit."
+      ],
+      "notes": "Legalisir dokumen biasanya hanya berlaku 6 bulan. Pastikan dokumen Anda masih valid saat submission."
+    },
+    "source": {
+      "name": "Panduan Administrasi KIP Kuliah",
+      "type": "Official Document",
+      "url": "https://kip-kuliah.kemdikbud.go.id/",
+      "dateVerified": "2026-11-01"
+    },
+    "featured": false,
+    "publishedAt": "2026-11-09"
+  },
+  {
+    "id": "010",
+    "title": "Mempersiapkan Diri untuk Wawancara Beasiswa",
+    "slug": "persiapan-wawancara-beasiswa",
+    "categoryId": "CAT004",
+    "description": "Panduan komprehensif untuk menghadapi wawancara beasiswa dengan percaya diri, dari persiapan hingga pelaksanaan.",
+    "keywords": ["wawancara beasiswa", "interview beasiswa", "seleksi wawancara", "persiapan interview", "tips wawancara"],
+    "content": {
+      "overview": "Wawancara beasiswa adalah tahap paling menentukan dalam proses seleksi. Persiapan yang matang membuat Anda tampil percaya diri dan meninggalkan kesan positif pada pewawancara.",
+      "sections": [
+        {
+          "heading": "Riset Sebelum Wawancara",
+          "body": "Sebelum wawancara, lakukan riset mendalam tentang: visi dan misi penyedia beasiswa, program studi yang akan Anda ambil, universitas tujuan (untuk beasiswa pendidikan), isu-isu terkini di bidang studi Anda, dan kebijakan atau program pemerintah yang relevan (terutama untuk LPDP). Pewawancara akan menilai seberapa serius Anda mempersiapkan diri."
+        },
+        {
+          "heading": "Mempersiapkan Jawaban",
+          "body": "Latih jawaban untuk pertanyaan standar: 'Ceritakan tentang diri Anda', 'Mengapa Anda layak mendapat beasiswa ini?', 'Apa rencana Anda setelah selesai studi?', 'Bagaimana Anda akan berkontribusi untuk Indonesia?'. Gunakan metode STAR (Situation, Task, Action, Result) untuk menjawab pertanyaan berbasis pengalaman."
+        },
+        {
+          "heading": "Persiapan Teknis",
+          "body": "Untuk wawancara offline: kenakan pakaian formal dan rapi, datang 15-30 menit lebih awal, bawa semua dokumen yang diperlukan. Untuk wawancara online: test koneksi internet dan kamera sehari sebelumnya, pastikan latar belakang bersih dan pencahayaan baik, test audio dan mikrofon, siapkan tempat yang tenang dan bebas gangguan."
+        },
+        {
+          "heading": "Latihan Wawancara",
+          "body": "Praktikkan wawancara dengan: teman atau kakak tingkat yang sudah berpengalaman, dosen pembimbing, atau rekam diri sendiri dan tinjau. Fokus pada: kejelasan penyampaian, bahasa tubuh dan kontak mata, struktur jawaban (tidak terlalu singkat atau terlalu panjang), dan penggunaan bahasa yang tepat (formal tapi natural)."
+        }
+      ],
+      "tips": [
+        "Latihan di depan cermin untuk memperhatikan ekspresi dan bahasa tubuh.",
+        "Jangan menghafal jawaban — pahami poin utama dan sampaikan dengan kata-kata sendiri.",
+        "Siapkan pertanyaan untuk ditanyakan kepada pewawancara — ini menunjukkan minat Anda.",
+        "Istirahat cukup malam sebelum wawancara agar tampil segar dan fokus.",
+        "Bawa air minum untuk menjaga suara tetap jernih saat wawancara berlangsung."
+      ],
+      "notes": "Wawancara adalah kesempatan untuk menunjukkan kepribadian dan potensi Anda melampaui apa yang tertulis di kertas."
+    },
+    "source": {
+      "name": "Tips Seleksi LPDP — Alumni LPDP Indonesia",
+      "type": "Reference Guide",
+      "url": "https://lpdp.kemenkeu.go.id/",
+      "dateVerified": "2026-10-28"
+    },
+    "featured": true,
+    "publishedAt": "2026-11-10"
+  },
+  {
+    "id": "011",
+    "title": "Pertanyaan Umum dalam Wawancara Beasiswa",
+    "slug": "pertanyaan-umum-wawancara-beasiswa",
+    "categoryId": "CAT004",
+    "description": "Kumpulan pertanyaan yang sering muncul dalam wawancara beasiswa beserta panduan cara menjawabnya secara efektif.",
+    "keywords": ["pertanyaan wawancara", "interview questions", "seleksi beasiswa", "tips menjawab", "wawancara LPDP"],
+    "content": {
+      "overview": "Mengetahui pertanyaan umum yang sering muncul memungkinkan Anda mempersiapkan jawaban yang terstruktur dan meyakinkan. Meski tidak ada jaminan pertanyaan yang sama, persiapan ini membangun kepercayaan diri.",
+      "sections": [
+        {
+          "heading": "Pertanyaan tentang Diri Sendiri",
+          "body": "'Ceritakan tentang diri Anda!' — Gunakan struktur: latar belakang singkat, perjalanan akademik, prestasi kunci, dan mengapa Anda melamar beasiswa ini. Durasi ideal 2-3 menit. 'Apa kelebihan dan kekurangan Anda?' — Sebutkan kelebihan relevan dengan konteks beasiswa, dan kekurangan yang sudah Anda sadari dan berusaha perbaiki. 'Di mana Anda melihat diri Anda 5 tahun ke depan?' — Jawab dengan spesifik dan realistis, kaitkan dengan bidang studi dan kontribusi."
+        },
+        {
+          "heading": "Pertanyaan tentang Motivasi dan Tujuan",
+          "body": "'Mengapa Anda memilih program studi ini?' — Hubungkan dengan pengalaman, minat, dan tujuan karier jangka panjang. 'Mengapa Anda layak mendapat beasiswa ini?' — Soroti kontribusi yang bisa Anda berikan, bukan sekadar kebutuhan finansial. 'Apa yang akan Anda lakukan dengan ilmu yang diperoleh?' — Berikan rencana konkret, bukan jawaban generik."
+        },
+        {
+          "heading": "Pertanyaan tentang Kepemimpinan dan Pengalaman",
+          "body": "'Ceritakan pengalaman kepemimpinan Anda!' — Gunakan metode STAR: Situasi, Tugas, Aksi, dan Hasil yang terukur. 'Bagaimana Anda mengatasi konflik dalam tim?' — Fokus pada proses penyelesaian dan pelajaran yang dipetik. 'Prestasi apa yang paling Anda banggakan?' — Pilih prestasi yang relevan dan ceritakan proses mencapainya."
+        },
+        {
+          "heading": "Pertanyaan Situasional",
+          "body": "'Bagaimana jika Anda tidak lulus di kampus pilihan pertama Anda?' — Tunjukkan fleksibilitas dan komitmen pada tujuan. 'Bagaimana Anda akan membiayai sisa kebutuhan jika beasiswa tidak mencakup semua?' — Tunjukkan bahwa Anda sudah memikirkan rencana cadangan. 'Apa yang Anda ketahui tentang beasiswa ini?' — Tunjukkan bahwa Anda sudah melakukan riset mendalam."
+        }
+      ],
+      "tips": [
+        "Hindari jawaban yang terlalu singkat (satu kalimat) atau terlalu panjang (lebih dari 5 menit).",
+        "Gunakan contoh konkret dan spesifik, bukan pernyataan generik.",
+        "Latihan menjawab dengan timer untuk mengontrol durasi.",
+        "Jika tidak mengerti pertanyaan, minta pewawancara untuk mengulang — lebih baik dari menjawab yang salah.",
+        "Akhiri wawancara dengan nada positif dan ucapan terima kasih yang tulus."
+      ],
+      "notes": "Pewawancara beasiswa mencari kandidat yang autentik dan memiliki visi jelas, bukan kandidat yang menghafal jawaban sempurna."
+    },
+    "source": {
+      "name": "Forum Alumni Penerima Beasiswa Indonesia",
+      "type": "Community Reference",
+      "url": "",
+      "dateVerified": "2026-10-30"
+    },
+    "featured": false,
+    "publishedAt": "2026-11-11"
+  },
+  {
+    "id": "012",
+    "title": "Kesalahan Umum dalam Proses Pendaftaran Beasiswa",
+    "slug": "kesalahan-umum-pendaftaran-beasiswa",
+    "categoryId": "CAT004",
+    "description": "Identifikasi kesalahan-kesalahan yang sering dilakukan pelamar beasiswa dan cara menghindarinya.",
+    "keywords": ["kesalahan beasiswa", "tips menghindari kesalahan", "gagal beasiswa", "persiapan beasiswa"],
+    "content": {
+      "overview": "Banyak pelamar yang sebenarnya memenuhi kualifikasi tetapi gagal karena kesalahan yang bisa dihindari. Memahami kesalahan umum ini membantu Anda meningkatkan kualitas aplikasi.",
+      "sections": [
+        {
+          "heading": "Kesalahan dalam Persiapan Dokumen",
+          "body": "Kesalahan dokumen yang paling umum: Dokumen tidak lengkap atau tidak sesuai format yang diminta. Legalisir dokumen sudah kedaluwarsa. Foto tidak sesuai ketentuan (ukuran, latar belakang). Sertifikat bahasa yang sudah tidak berlaku. Tidak membaca petunjuk dengan teliti sehingga salah mengisi form. Mengirim file dengan ukuran yang melebihi batas."
+        },
+        {
+          "heading": "Kesalahan dalam Penulisan Esai dan Motivation Letter",
+          "body": "Menulis motivation letter yang generik dan tidak dipersonalisasi. Menyalin template dari internet tanpa modifikasi substansial. Berbohong atau melebih-lebihkan pencapaian. Terlalu fokus pada kebutuhan finansial, bukan pada kontribusi. Tidak menjawab pertanyaan yang sebenarnya ditanyakan. Grammar dan ejaan yang buruk menunjukkan kurangnya keseriusan."
+        },
+        {
+          "heading": "Kesalahan Manajemen Waktu",
+          "body": "Mendaftar terlalu mepet dengan deadline. Baru mulai mengumpulkan dokumen seminggu sebelum deadline. Tidak mempertimbangkan bahwa proses legalisir, tes bahasa, atau mendapatkan surat rekomendasi membutuhkan waktu. Menunda-nunda revisi esai. Tidak memiliki rencana cadangan jika terjadi masalah teknis saat upload."
+        },
+        {
+          "heading": "Kesalahan dalam Wawancara",
+          "body": "Tidak melakukan riset tentang beasiswa atau universitas tujuan. Menjawab dengan jawaban yang terlalu umum dan tidak spesifik. Tidak mempersiapkan contoh konkret untuk pertanyaan berbasis pengalaman. Pakaian tidak rapi atau tidak formal. Terlambat untuk wawancara. Tidak memiliki pertanyaan untuk pewawancara."
+        }
+      ],
+      "tips": [
+        "Buat checklist komprehensif dan periksa setiap item sebelum submit.",
+        "Minta orang lain untuk membaca esai Anda dan berikan feedback jujur.",
+        "Mulai proses pendaftaran minimal 2-3 bulan sebelum deadline.",
+        "Simpan semua konfirmasi pendaftaran dan korespondensi dengan penyedia beasiswa.",
+        "Belajar dari penolakan — minta feedback jika memungkinkan dan perbaiki untuk aplikasi berikutnya."
+      ],
+      "notes": "Tidak ada aplikasi yang sempurna, tetapi aplikasi yang disiapkan dengan baik secara signifikan meningkatkan peluang keberhasilan."
+    },
+    "source": {
+      "name": "Panduan Pendaftaran Beasiswa Kemdikbud",
+      "type": "Official Reference",
+      "url": "https://dikti.kemdikbud.go.id/",
+      "dateVerified": "2026-10-28"
+    },
+    "featured": false,
+    "publishedAt": "2026-11-11"
+  },
+  {
+    "id": "013",
+    "title": "Pelajaran dari Para Penerima Beasiswa",
+    "slug": "pelajaran-penerima-beasiswa",
+    "categoryId": "CAT005",
+    "description": "Kumpulan pelajaran dan wawasan berharga yang dapat dipetik dari pengalaman para penerima beasiswa dalam menjalani proses aplikasi dan studi.",
+    "keywords": ["pengalaman beasiswa", "penerima beasiswa", "pelajaran beasiswa", "tips beasiswa", "inspirasi beasiswa"],
+    "content": {
+      "overview": "Pengalaman nyata dari penerima beasiswa memberikan perspektif yang tidak ditemukan di panduan resmi. Pelajaran-pelajaran ini dirangkum dari berbagai referensi dan kisah umum yang sering dibagikan oleh penerima beasiswa.",
+      "sections": [
+        {
+          "heading": "Mulai Lebih Awal dari yang Diperkirakan",
+          "body": "Salah satu pelajaran yang paling sering disampaikan oleh penerima beasiswa adalah pentingnya memulai persiapan jauh lebih awal dari yang diperkirakan. Proses mengumpulkan dokumen, menulis esai, mendapatkan surat rekomendasi, mengambil tes bahasa, dan riset tentang program studi membutuhkan waktu berbulan-bulan. Idealnya, mulai persiapan 6-12 bulan sebelum deadline."
+        },
+        {
+          "heading": "Kegagalan Adalah Bagian dari Proses",
+          "body": "Banyak penerima beasiswa bergengsi mengalami penolakan berkali-kali sebelum akhirnya berhasil. Penerima LPDP, misalnya, banyak yang gagal di percobaan pertama dan kedua sebelum akhirnya lolos. Kegagalan memberikan informasi berharga tentang area mana yang perlu diperbaiki. Pelajari feedback, perbaiki aplikasi, dan coba lagi dengan lebih matang."
+        },
+        {
+          "heading": "Keaslian Lebih Kuat dari Kesempurnaan",
+          "body": "Komite seleksi membaca ribuan aplikasi. Aplikasi yang autentik dan menunjukkan kepribadian unik pelamar jauh lebih berkesan dibandingkan aplikasi yang terasa 'sempurna' tetapi generik. Ceritakan pengalaman dan perspektif Anda sendiri dengan jujur. Jangan mencoba menjadi apa yang Anda kira diinginkan oleh komite."
+        },
+        {
+          "heading": "Jaringan dan Komunitas Adalah Aset",
+          "body": "Bergabung dengan komunitas penerima beasiswa atau pelamar beasiswa membuka akses ke informasi, mentor, dan dukungan moral. Banyak penerima beasiswa mendapatkan tips berharga, referensi, atau bahkan surat rekomendasi melalui jaringan mereka. Investasikan waktu untuk membangun relasi yang tulus sejak dini."
+        },
+        {
+          "heading": "Siapkan Diri untuk Tantangan Selama Studi",
+          "body": "Mendapatkan beasiswa bukanlah akhir dari perjuangan. Penerima beasiswa harus mempertahankan performa akademik, mematuhi kewajiban pelaporan, dan sering terlibat dalam kegiatan yang diwajibkan oleh penyedia beasiswa. Persiapkan diri secara mental dan praktis untuk tantangan yang menanti setelah beasiswa diterima."
+        }
+      ],
+      "tips": [
+        "Dokumentasikan perjalanan aplikasi Anda — ini berguna untuk aplikasi berikutnya dan untuk berbagi pengalaman.",
+        "Cari mentor yang sudah berpengalaman di bidang beasiswa yang Anda incar.",
+        "Jangan bandingkan perjalanan Anda dengan orang lain — setiap aplikasi unik.",
+        "Rawat kesehatan mental selama proses aplikasi yang panjang dan penuh tekanan.",
+        "Rayakan pencapaian kecil — menyelesaikan esai, mendapat surat rekomendasi — bukan hanya keberhasilan akhir."
+      ],
+      "notes": "Pelajaran ini dirangkum dari berbagai referensi umum tentang pengalaman pelamar beasiswa. Pengalaman individu dapat berbeda-beda."
+    },
+    "source": {
+      "name": "Kompilasi Kisah Beasiswa Indonesia",
+      "type": "Community Reference",
+      "url": "",
+      "dateVerified": "2026-11-01"
+    },
+    "featured": true,
+    "publishedAt": "2026-11-11"
+  },
+  {
+    "id": "014",
+    "title": "Tantangan Selama Proses Lamaran Beasiswa",
+    "slug": "tantangan-proses-lamaran-beasiswa",
+    "categoryId": "CAT005",
+    "description": "Pembahasan tentang tantangan-tantangan umum yang dihadapi pelamar beasiswa dan strategi untuk mengatasinya.",
+    "keywords": ["tantangan beasiswa", "hambatan beasiswa", "kesulitan beasiswa", "mengatasi tantangan"],
+    "content": {
+      "overview": "Proses lamaran beasiswa penuh dengan tantangan yang bisa membuat banyak orang menyerah. Memahami tantangan ini sejak awal membantu Anda menyiapkan strategi yang tepat.",
+      "sections": [
+        {
+          "heading": "Tantangan Administratif",
+          "body": "Mengumpulkan dan mengurus dokumen adalah salah satu bagian paling melelahkan dari proses beasiswa. Antrean di kantor legalisir yang panjang, birokrasi yang lambat, dokumen yang terbit dalam format yang salah, atau sertifikat yang tiba-tiba tidak ditemukan adalah tantangan nyata yang harus dihadapi. Strategi: mulai lebih awal dan selalu buat salinan digital cadangan."
+        },
+        {
+          "heading": "Tantangan Kompetisi yang Ketat",
+          "body": "Beasiswa bergengsi sering kali memiliki rasio penerimaan yang sangat rendah — LPDP misalnya menerima sekitar 20-30% pelamar yang lolos administrasi. Tekanan kompetisi bisa mempengaruhi kepercayaan diri. Strategi: fokus pada hal yang bisa Anda kendalikan (kualitas aplikasi), bukan pada kompetisi yang tidak bisa Anda kendalikan."
+        },
+        {
+          "heading": "Tantangan Finansial dalam Persiapan",
+          "body": "Ironis, tetapi proses mendaftar beasiswa juga memerlukan biaya: biaya tes TOEFL/IELTS yang mahal (Rp 2-5 juta), biaya legalisir dan fotokopi, biaya perjalanan untuk wawancara, dan biaya pendaftaran di beberapa program. Strategi: anggarkan biaya persiapan sebagai investasi, cari alternatif tes yang lebih terjangkau jika memungkinkan."
+        },
+        {
+          "heading": "Tantangan Psikologis",
+          "body": "Ketidakpastian hasil, tekanan dari keluarga dan lingkungan, ketakutan akan penolakan, dan burnout dari proses yang panjang adalah tantangan psikologis yang nyata. Strategi: bangun sistem dukungan dari teman dan keluarga, tetapkan ekspektasi yang realistis, dan praktikkan self-care selama proses aplikasi."
+        }
+      ],
+      "tips": [
+        "Buat rencana B — apa yang akan Anda lakukan jika tidak mendapat beasiswa yang diincar.",
+        "Berbagi tantangan dengan sesama pelamar — komunitas membuat beban terasa lebih ringan.",
+        "Tetapkan batasan waktu harian untuk urusan beasiswa agar tidak menguras semua energi.",
+        "Ingat bahwa penolakan bukan penilaian atas nilai diri Anda secara keseluruhan.",
+        "Rayakan setiap tahap yang berhasil diselesaikan, bukan hanya hasil akhir."
+      ],
+      "notes": "Semua tantangan ini bisa diatasi dengan persiapan yang matang, dukungan yang baik, dan mentalitas yang resilient."
+    },
+    "source": {
+      "name": "Referensi Umum Komunitas Beasiswa Indonesia",
+      "type": "Community Reference",
+      "url": "",
+      "dateVerified": "2026-11-01"
+    },
+    "featured": false,
+    "publishedAt": "2026-11-11"
+  },
+  {
+    "id": "015",
+    "title": "Mempertahankan Status Penerima Beasiswa",
+    "slug": "mempertahankan-status-penerima-beasiswa",
+    "categoryId": "CAT005",
+    "description": "Panduan tentang kewajiban dan cara mempertahankan status sebagai penerima beasiswa selama masa studi.",
+    "keywords": ["kewajiban beasiswa", "mempertahankan beasiswa", "status penerima beasiswa", "syarat kelanjutan beasiswa"],
+    "content": {
+      "overview": "Mendapatkan beasiswa adalah awal dari tanggung jawab baru. Penerima beasiswa memiliki kewajiban akademik dan administratif yang harus dipenuhi untuk mempertahankan status dan pendanaan mereka.",
+      "sections": [
+        {
+          "heading": "Kewajiban Akademik",
+          "body": "Sebagian besar beasiswa mensyaratkan penerima untuk mempertahankan performa akademik minimum. Contoh: KIP Kuliah mensyaratkan minimal 75% kehadiran dan tidak mendapat nilai E. LPDP mensyaratkan kemajuan studi yang konsisten dengan laporan berkala. Beasiswa perguruan tinggi biasanya mensyaratkan IPK minimum dipertahankan setiap semester. Gagal memenuhi persyaratan akademik dapat berakibat penangguhan atau pencabutan beasiswa."
+        },
+        {
+          "heading": "Kewajiban Administratif dan Pelaporan",
+          "body": "Penerima beasiswa umumnya wajib: melaporkan kemajuan studi secara berkala (semester atau tahunan), memberitahu penyedia beasiswa jika ada perubahan program studi atau universitas, melaporkan jika mengalami kendala akademik atau personal yang signifikan, dan menandatangani perpanjangan kontrak beasiswa sesuai jadwal. Keterlambatan pelaporan dapat menyebabkan penundaan pencairan dana."
+        },
+        {
+          "heading": "Larangan dan Batasan",
+          "body": "Beberapa hal yang umumnya dilarang bagi penerima beasiswa: mengambil pekerjaan penuh waktu tanpa izin (terutama untuk beasiswa full-time), pindah program studi atau universitas tanpa izin penyedia beasiswa, menerima beasiswa ganda dari sumber berbeda tanpa izin, dan melakukan tindakan yang mencemarkan nama baik institusi atau penyedia beasiswa."
+        },
+        {
+          "heading": "Strategi Mempertahankan Performa",
+          "body": "Tips praktis untuk mempertahankan status beasiswa: buat jadwal studi yang terstruktur, manfaatkan sumber daya akademik kampus (tutor, perpustakaan, konseling akademik), bangun jaringan sesama penerima beasiswa untuk dukungan, komunikasikan tantangan kepada dosen pembimbing atau penyedia beasiswa sebelum masalah membesar, dan jaga keseimbangan antara akademik, kewajiban beasiswa, dan kehidupan pribadi."
+        }
+      ],
+      "tips": [
+        "Simpan semua dokumen beasiswa, kontrak, dan korespondensi dengan rapi.",
+        "Tandai semua deadline laporan beasiswa di kalender dan beri pengingat.",
+        "Jangan ragu menghubungi pengelola beasiswa jika ada pertanyaan atau kendala.",
+        "Jalin komunikasi baik dengan dosen pembimbing — mereka bisa membantu jika ada masalah akademik.",
+        "Dokumentasikan pencapaian selama masa beasiswa untuk laporan akhir yang kuat."
+      ],
+      "notes": "Persyaratan kelanjutan beasiswa berbeda-beda antar program. Baca dan pahami kontrak beasiswa Anda secara menyeluruh."
+    },
+    "source": {
+      "name": "Panduan Penerima KIP Kuliah, Kemdikbud",
+      "type": "Official Document",
+      "url": "https://kip-kuliah.kemdikbud.go.id/",
+      "dateVerified": "2026-11-01"
+    },
+    "featured": false,
+    "publishedAt": "2026-11-11"
+  }
+]
+

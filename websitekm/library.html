@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Jelajahi seluruh artikel pengetahuan beasiswa — cari, filter, dan temukan informasi yang Anda butuhkan." />
+  <title>Knowledge Library — Beasiswa Knowledge Base</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+
+<!-- NAVBAR -->
+<header id="navbar"></header>
+
+<!-- PAGE HEADER -->
+<div class="page-header">
+  <div class="container page-header-inner">
+    <div class="page-eyebrow">
+      <svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 24 24" fill="currentColor"><circle cx="12" cy="12" r="5"/></svg>
+      Knowledge Library
+    </div>
+    <h1>Perpustakaan Pengetahuan</h1>
+    <p>Seluruh artikel beasiswa tersedia di sini. Gunakan pencarian dan filter untuk menemukan informasi yang tepat.</p>
+    <div class="page-header-meta">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>
+      Menampilkan <span id="totalCount">—</span> artikel
+    </div>
+  </div>
+</div>
+
+<!-- LIBRARY CONTENT -->
+<section>
+  <div class="container">
+
+    <!-- Search + filter row -->
+    <div style="display:flex;gap:1rem;align-items:center;flex-wrap:wrap;margin-bottom:1.25rem">
+      <div class="search-wrap" style="flex:1;min-width:200px;max-width:420px">
+        <svg class="search-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input
+          id="librarySearch"
+          class="search-input"
+          type="search"
+          placeholder="Cari judul, deskripsi, atau kata kunci..."
+          autocomplete="off"
+          aria-label="Cari artikel"
+        />
+        <button type="button" class="search-clear" id="librarySearchClear" aria-label="Hapus pencarian">&times;</button>
+      </div>
+    </div>
+
+    <!-- Filter buttons -->
+    <div class="filter-bar" id="filterBar" role="group" aria-label="Filter kategori">
+      <!-- injected by library.js -->
+    </div>
+
+    <!-- Knowledge grid -->
+    <div class="knowledge-grid" id="knowledgeGrid">
+      <!-- injected by library.js -->
+    </div>
+
+  </div>
+</section>
+
+<!-- FOOTER -->
+<footer id="footer"></footer>
+
+<script src="assets/js/app.js"></script>
+<script src="assets/js/library.js"></script>
+</body>
+</html>
+
