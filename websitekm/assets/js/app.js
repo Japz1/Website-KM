@@ -59,6 +59,7 @@ function getCurrentPage() {
   if (path.includes('categories')) return 'categories';
   if (path.includes('library')) return 'library';
   if (path.includes('detail')) return 'detail';
+  if (path.includes('about')) return 'about';
   return '';
 }
 
@@ -67,6 +68,7 @@ function injectNavbar() {
 
   const nav = document.getElementById('navbar');
   if (!nav) return;
+  nav.className = 'navbar';
 
   nav.innerHTML = `
     <div class="container">
@@ -83,7 +85,7 @@ function injectNavbar() {
           <a href="index.html"      class="${page === 'home'       ? 'active' : ''}">Home</a>
           <a href="categories.html" class="${page === 'categories' ? 'active' : ''}">Categories</a>
           <a href="library.html"    class="${page === 'library' || page === 'detail' ? 'active' : ''}">Knowledge Library</a>
-          <a href="about.html"      class="">About</a>
+          <a href="about.html"      class="${page === 'about'      ? 'active' : ''}">About</a>
         </nav>
 
         <button class="navbar-toggle" id="navToggle" aria-label="Toggle navigation" aria-expanded="false">
@@ -103,6 +105,7 @@ function injectNavbar() {
 function injectFooter() {
   const footer = document.getElementById('footer');
   if (!footer) return;
+  footer.className = 'footer';
 
   footer.innerHTML = `
     <div class="container">

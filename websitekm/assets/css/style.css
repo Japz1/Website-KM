@@ -406,7 +406,7 @@ input { font-family: inherit; }
   width: 100%;
   padding: 0.85rem 3rem 0.85rem 2.75rem;
   border-radius: var(--radius-md);
-  border: 1.5px solid transparent;
+  border: 1.5px solid var(--color-border);
   background: var(--color-surface);
   font-size: 0.9375rem;
   color: var(--color-text);
@@ -586,6 +586,7 @@ input { font-family: inherit; }
   flex: 1;
   display: -webkit-box;
   -webkit-line-clamp: 3;
+  line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }

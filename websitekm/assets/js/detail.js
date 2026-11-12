@@ -39,9 +39,6 @@ async function loadDetailPage() {
     // Render breadcrumb in header
     renderBreadcrumb(article, category);
 
-    // Render header info
-    renderDetailHeader(article, category);
-
     // Render article body
     renderArticle(main, article, category);
 
